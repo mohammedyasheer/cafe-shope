@@ -1,0 +1,62 @@
+#main-card .container{
+  padding:0;
+  display: block;
+}
+.card{
+  padding:1rem 0;
+}
+
+.container-about{
+  padding:0;
+  display: inline-block;
+}
+#main-about .container-about .about-img{
+  background: url(../img/about-1.jpg)no-repeat center center/cover ;
+  height:200px;
+  width:450px;
+}
+#main-about .container-about .about-img-2{
+  display: none;
+}
+.about-para{
+  margin-bottom: 2rem;  
+}
+
+/* Team */
+#main-team .container{
+  margin-left:4rem;
+  display: block;
+  align-items: center;
+}
+.img-1{
+  background: url(../img/Team/women-1.jpg)no-repeat center center/cover;
+  height:100px;
+  width:100px;
+  border-radius: 100%;
+  margin-left:50px;
+  
+}
+.img-2{
+  background: url(../img/Team/men.jpg)no-repeat center center/cover;
+  height:100px;
+  width:100px;
+  border-radius: 100%;
+  margin-left:50px;
+}
+.img-3{
+  background: url(../img/Team/women-2.jpg)no-repeat center center/cover;
+  height:100px;
+  width:100px;
+  border-radius: 100%;
+  margin-left:50px;
+}
+
+/* blog section */
+#main-blog .container{
+  display: block;
+}
+
+/* Contact Section */
+.form {
+  display: block;
+}

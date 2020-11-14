@@ -87,6 +87,7 @@
 .blog-card{
   width:350px;
   margin-bottom: 20px;
+  margin-right: 1rem;
 }
 #main-blog .container{
   display: block;

@@ -1,3 +1,6 @@
+#showcase .container{
+  padding-top:15vh;
+}
 #main-card .container{
   padding:0;
   display: block;
@@ -50,10 +53,14 @@
   border-radius: 100%;
   margin-left:40px;
 }
+.team-content{
+  text-align: center;
+  margin-right: 12px;
+}
 
 /* blog section */
 #main-blog .container{
-  margin-left:1rem;
+  margin-right:1rem;
 }
 .blog-card{
   width:350px;

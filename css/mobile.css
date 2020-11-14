@@ -61,7 +61,22 @@
 /* blog section */
 #main-blog{
   align-items: center;
-  margin:0 .5rem;
+  margin-left:none;
+}
+.blog-img-1{
+  background:url(../img/blog/blog-1.jpg)no-repeat center center/cover;
+  height:250px;
+  width:300px;
+}
+.blog-img-2{
+  background:url(../img/blog/blog-2.jpg)no-repeat center center/cover;
+  height:250px;
+  width:300px;
+}
+.blog-img-3{
+  background:url(../img/blog/blog-3.jpg)no-repeat center center/cover;
+  height:250px;
+  width:300px;
 }
 #main-blog .container{
   padding-right:1rem;

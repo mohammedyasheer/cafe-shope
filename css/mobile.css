@@ -55,12 +55,15 @@
 }
 .team-content{
   text-align: center;
-  margin-right: 12px;
+  margin-right: 1.5rem;
 }
 
 /* blog section */
 #main-blog .container{
   margin-right:1rem;
+}
+.blog-content{
+  padding-right: 1rem;
 }
 .blog-card{
   width:350px;

@@ -55,10 +55,14 @@
 }
 .team-content{
   text-align: center;
-  margin-left:-10px;
+  margin-left:-15px;
 }
 
 /* blog section */
+#main-blog{
+  align-items: center;
+  margin:0 .5rem;
+}
 #main-blog .container{
   padding-right:1rem;
 }

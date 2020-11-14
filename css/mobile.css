@@ -13,7 +13,7 @@
 #main-about .container-about .about-img{
   background: url(../img/about-1.jpg)no-repeat center center/cover ;
   height:200px;
-  width:300px;
+  width:340px;
 }
 #main-about .container-about .about-img-2{
   display: none;
@@ -41,7 +41,7 @@
   height:100px;
   width:100px;
   border-radius: 100%;
-  margin-left:40px;
+  margin-left:33px;
 }
 .img-3{
   background: url(../img/Team/women-2.jpg)no-repeat center center/cover;
@@ -52,8 +52,11 @@
 }
 
 /* blog section */
+#main-blog .container{
+  margin-left:1rem;
+}
 .blog-card{
-  width:150px;
+  width:350px;
   margin-bottom: 20px;
 }
 #main-blog .container{
